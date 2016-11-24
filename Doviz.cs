@@ -10,8 +10,6 @@ namespace DovizKurlari
     public class Doviz
     {
         public string KurAdi { get; set; }
-
-
         public string KurKodu { get; set; }
         public decimal AlisKuru { get; set; }
         public decimal SatisKuru { get; set; }
